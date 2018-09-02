@@ -1,6 +1,6 @@
 # AutoOmm
 
-This project simply writes the mantra, Om Mane Padme Hum in Tibetan ("ཨོཾ་མ་ཎི་པདྨེ་ཧཱུ") repeatedly to a text file, rewriting the file completely every one million iterations. This piece runs continuously unless interrupted.
+This project simply writes the mantra, Om Mane Padme Hum, in Tibetan ("ཨོཾ་མ་ཎི་པདྨེ་ཧཱུ") repeatedly to a text file, rewriting the file completely every one million iterations. This piece runs continuously unless interrupted.
 
 ## Origin
 
