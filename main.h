@@ -8,3 +8,6 @@ int write (int prev);
 
 /* Repeats the writing when memory issues arise and write() stops */
 int main();
+
+
+#endif
