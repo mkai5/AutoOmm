@@ -16,8 +16,6 @@ My hope is this piece raises questions about the value of religious work, the di
 
 Simply clone this GitHub repository, compile it from the terminal using either the included make file (and either the command 'make' or 'make prayer-wheel') or compiler of choice, and run the resulting program.
 
-Alternatively, a direct download of the executable is available here: https://goo.gl/VBqqCB
-
 ## Versioning
 
 This is Version 1.1, published on 9.3.2018.
