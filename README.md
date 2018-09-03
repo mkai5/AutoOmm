@@ -1,6 +1,6 @@
 # AutoOmm
 
-This project simply writes the mantra, Om Mane Padme Hum, in Tibetan ("ཨོཾ་མ་ཎི་པདྨེ་ཧཱུ") repeatedly to a text file, rewriting the file completely every one million iterations. This piece runs continuously unless interrupted.
+This project simply writes the mantra, Om Mane Padme Hum, in Tibetan ("ཨོཾ་མ་ཎི་པདྨེ་ཧཱུ") repeatedly to a text file, rewriting the file completely every one million iterations, evoking the motion of a traditional prayer wheel. This piece runs continuously unless interrupted.
 
 ## Origin
 
@@ -8,7 +8,7 @@ I decided to create this piece when, in Bhutan, I noticed a solar-powered prayer
 
 This is problem is made deeper when modern computation is introduced, as it is in this piece. As the mantra is written and rewritten by the computer (onto a text file named prayer-wheel.txt), it is processing the information in an entirely distinct medium from the aforementioned prayer wheels and flags. This also begs the question of the value of digital 'work,' in comparison to the normal or physical, particularly when dealing with metaphysical benefits.
 
-The lack of visuals which accompany this piece (it is simply run from the terminal, and only produces a number of 'rotations' as output), is a direct response to the importance of visual culture, particularly bright colors and ornate, symbolic designs, in the Tibetan Buddhist tradition. When writing this, I tried to keep my code as sparse as possible to further this distinction. This serves to emphasize the difference between this piece and traditional prayer wheels.
+The lack of visuals which accompany this piece (when run from the terminal, it only produces a number of rotations as output; otherwise it simply runs in the background), is a direct response to the importance of visual culture, particularly bright colors and ornate, symbolic designs, in the Tibetan Buddhist tradition. When writing this, I tried to keep my code as sparse as possible to further this distinction. This serves to emphasize the difference between this piece and traditional prayer wheels.
 
 My hope is this piece raises questions about the value of religious work, the distinction between natural and computational processing, and the interaction between modernity and religious tradition.
 
