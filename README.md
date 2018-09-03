@@ -14,11 +14,12 @@ My hope is this piece raises questions about the value of religious work, the di
 
 ## Running the Program
 
-Simply clone this GitHub repository, compile it from the terminal using a compiler of choice, and run the resulting program.
+Simply clone this GitHub repository, compile it from the terminal using either the included make file (and either the command 'make' or 'make prayer-wheel') or compiler of choice, and run the resulting program.
 
 ## Versioning
 
-This is Version 1.0, published on 9.2.2018.
+This is Version 1.1, published on 9.3.2018.
+Version 1.0 was originally published on 9.2.2018.
 
 ## Authors
 
