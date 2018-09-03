@@ -1,6 +1,6 @@
 # AutoOmm
 
-This project simply writes the mantra, Om Mane Padme Hum, in Tibetan ("ཨོཾ་མ་ཎི་པདྨེ་ཧཱུ") repeatedly to a text file, rewriting the file completely every one million iterations. This piece runs continuously unless interrupted.
+This project simply writes the mantra, Om Mane Padme Hum, in Tibetan ("ཨོཾ་མ་ཎི་པདྨེ་ཧཱུ") repeatedly to a text file, rewriting the file completely every one hundred thousand iterations. This piece runs continuously unless interrupted.
 
 ## Origin
 
@@ -8,7 +8,7 @@ I decided to create this piece when, in Bhutan, I noticed a solar-powered prayer
 
 This is problem is made deeper when modern computation is introduced, as it is in this piece. As the mantra is written and rewritten by the computer (onto a text file named prayer-wheel.txt), it is processing the information in an entirely distinct medium from the aforementioned prayer wheels and flags. This also begs the question of the value of digital 'work,' in comparison to the normal or physical, particularly when dealing with metaphysical benefits.
 
-The lack of visuals which accompany this piece (it is simply run from the terminal, and only produces a number of 'rotations' as output), is a direct response to the importance of visual culture, particularly bright colors and ornate, symbolic designs, in the Tibetan Buddhist tradition. When writing this, I tried to keep my code as sparse as possible to further this distinction. This serves to emphasize the difference between this piece and traditional prayer wheels.
+The lack of visuals which accompany this piece (it is simply run from the terminal, and only produces a number of 'rotations' as output), is a direct response to the importance of visual culture, particularly bright colors and ornate, symbolic designs, in the Tibetan Buddhist tradition. When writing this, I tried to keep my code as sparse as possible to further this distinction. This serves to emphasize the difference between this piece and traditional prayer wheels. Additonally, the text file is entirely rewritten every 100,000 repititions of the mantra, as this number is traditionally associated with the ngöndro, or preliminary practices in Tibetan Buddhism, which general include prostrations, mantra recitations, mandala offerings, and guru yoga practices.
 
 My hope is this piece raises questions about the value of religious work, the distinction between natural and computational processing, and the interaction between modernity and religious tradition.
 
@@ -18,7 +18,7 @@ Simply clone this GitHub repository, compile it from the terminal using either t
 
 ## Versioning
 
-This is Version 1.1, published on 9.3.2018.
+This is Version 1.2, published on 9.4.2018.
 Version 1.0 was originally published on 9.2.2018.
 
 ## Authors
