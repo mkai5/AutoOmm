@@ -30,6 +30,8 @@ int main ()
 	while(1){
 		temp=write(total);
 		total+=temp;
+		if (total>10000000)
+			total=0;
 	}
 
 	return 0;
