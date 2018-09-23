@@ -18,7 +18,7 @@ Simply clone this GitHub repository, compile it from the terminal using either t
 
 ## Versioning
 
-This is Version 1.2, published on 9.4.2018.
+This is Version 1.3, published on 9.23.2018.
 Version 1.0 was originally published on 9.2.2018.
 
 ## Authors
